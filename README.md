@@ -17,7 +17,6 @@
  - hit the following command:
   ```
  mvn clean test / mvn clean install
- 
  ```
  
    ## How to Generate Report: 
